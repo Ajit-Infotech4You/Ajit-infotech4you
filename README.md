@@ -1,4 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ajit Singh</h1>
+
+![Master copy](https://user-images.githubusercontent.com/95950194/147247533-87b0dcd9-a68d-4a13-b79c-dce9af4ed329.jpg)
+
+
 <h3 align="center">I'm a IT Engineer. And Social tools and services work in free time.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=infotec4you&label=Profile%20views&color=0e75b6&style=flat" alt="infotec4you" /> </p>
